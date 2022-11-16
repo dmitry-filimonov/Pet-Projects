@@ -1,6 +1,6 @@
-# Анализ метрик AIDA для Youtube канала
+# Анализ метрик AIDA для Youtube канала (**в работе**)
 
-[**Дашборд**](https://public.tableau.com/app/profile/dmitry.filimonov/viz/) -  **В работе**
+[**Дашборд**](https://public.tableau.com/app/profile/dmitry.filimonov/viz/) -  **в работе**
 ___
 ### Задачи проекта:
 
