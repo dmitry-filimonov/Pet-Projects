@@ -8,3 +8,4 @@ datasets/
 misc/
 Agent
 *.env
+*.json
