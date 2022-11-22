@@ -26,7 +26,7 @@ ___
 
 Парсинг телеграм-каналов, NLP, исследовательский анализ, проверка гипотез
 
-*Python (scipy, sklearn, pandas, matplotlib, seaborn)*
+*Python (beautifulsoup, pyrogram, pymystem3, pandas, matplotlib, seaborn, scipy)*
 ____
 ### [Дашборд по пользовательским событиям для агрегатора новостей](https://github.com/dmitry-filimonov/Pet-Projects/tree/main/yandex_zen)
 
