@@ -1,6 +1,6 @@
 # Анализ метрик AIDA для Youtube канала (**в работе**)
 
-[**Дашборд**](https://datastudio.google.com/reporting/d3f6c7a0-9d89-4c80-90d1-c00d32c83376) -  **в работе**
+[**Дашборд**](https://datastudio.google.com/s/hQJ_y9HV6KQ) -  **этап ревью от заказчика**
 ___
 ### Задачи проекта:
 
