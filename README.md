@@ -9,12 +9,7 @@ ____
 Исследовательский анализ, проверка статистических гипотез
 
 *Python (pandas, matplotlib, numpy, scipy)*
-____
-### [Анализ товарного ассортимента интернет-магазина](https://github.com/dmitry-filimonov/Practicum-Data-Analysis/tree/main/eshop_assortment_analysis)
 
-Web-mining, предобработка, ABC-анализ, кластеризация, проверка гипотез, дашборд в Tableau Public
-
-*Python (beautifulsoup, pymystem3, pandas, seaborn, scipy, sklearn)*
 ____
 ### [Анализ ассортимента игр на платформе PlayStation 4](https://github.com/dmitry-filimonov/Pet-Projects/tree/main/ps4_games)
 
